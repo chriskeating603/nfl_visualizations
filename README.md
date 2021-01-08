@@ -1,13 +1,12 @@
 # Visualizing Fourth Down in the NFL, 2013-2020
 
 <p align="center"><img width=50% src="https://gray-ksfy-prod.cdn.arcpublishing.com/resizer/QlfUzPPSYHMGRxk_bFEDnlLqs0E=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/SHFLOLTQWVDTLIVLC7KEREHGPE.jpg"></p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
-[![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)]
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
+<p align="center">
+  <img src="https://img.shields.io/github/release/Naereen/StrapDown.js.svg" />
+  <img src="https://img.shields.io/badge/python-v3.8+-blue.svg" />  
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" />
+</p>
 <br>
 
 ## Background
@@ -38,4 +37,3 @@ Here are some skills I demonstrate in this project:
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" />
 </p>
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
